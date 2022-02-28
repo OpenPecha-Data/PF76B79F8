@@ -1,0 +1,25 @@
+id: PF76B79F8
+initial_creation_type: input
+source_metadata:
+  title: Shabkar Tsokdruk Rangdrol Series
+  language: pt
+  description: 'Texts by the great poet and Dzogchen adept Shabkar Tsokdruk Rangdrol
+    (zhabs dkar tshogs drug rang grol, 1781–1851):'
+  volume:
+    230f39cd7b0d47a1ae5b1f9901f0870e:
+      title: Concise Preliminaries Practice
+      parent: Preliminary Practice
+    d417b0565d654a63b72153172c05e439:
+      title: A Short Song of Practice
+      parent: Songs
+    cbb5cf34206b442e88008aa244311900:
+      title: A Song of Compassion
+      parent: Songs
+    30d8b09725844652bb7c81acb7233cb3:
+      title: When Remembering My Mother
+      parent: Songs
+    3c57c3708deb4b25ac123213e3bd5f68:
+      title: Light Offering Aspiration Prayer
+      parent: Light Offering Prayer
+created_at: '2022-03-01T01:31:13.409538'
+last_modified_at: '2022-03-01T01:31:13.409541'
